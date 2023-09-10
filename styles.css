@@ -10,7 +10,7 @@ body{
 	
 }
 
-#animals-photos{
+#animal-photos{
 	display:grid;
 	grid-template-columns:repeat(3, 1fr);
 	margin-inline:auto;
